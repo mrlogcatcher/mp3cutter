@@ -1,6 +1,6 @@
 # mp3cutter
 mp3 cutter html code
-
+<a href="https://www.google.com" target="_blank">Go to Google</a>
 
 An online MP3 cutter web project on GitHub is typically a web-based application designed to allow users to upload MP3 audio files, select a portion of the audio, and cut it to create a smaller MP3 file. Below is a general description of what such a project could involve:
 
